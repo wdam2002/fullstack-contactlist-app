@@ -2,13 +2,6 @@
 
 This is a simple contactlist management application built using Flask for the backend and React for the frontend. It allows users to perform basic CRUD (Create, Read, Update, Delete) operations on contacts.
 
-## Features
-
-- View a list of contacts
-- Add new contacts
-- Update existing contacts
-- Delete contacts
-
 ## Technologies Used
 
 - **Backend:**
