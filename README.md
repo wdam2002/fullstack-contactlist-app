@@ -51,3 +51,4 @@ This is a simple contactlist management application built using Flask for the ba
    - Navigate to the **`frontend`** directory
    - ```bash
      npm run dev
+   - Open your web browser and go to **`http://localhost:5173`** to view the application.
